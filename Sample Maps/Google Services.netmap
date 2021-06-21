@@ -1,0 +1,43 @@
+{
+  "MappedDevices": [
+    {
+      "DeviceName": "Google UK",
+      "ImageIndex": 9,
+      "CustomImagePath": "",
+      "IPAddress": "google.co.uk",
+      "Position": "214, -2"
+    },
+    {
+      "DeviceName": "Google US",
+      "ImageIndex": 9,
+      "CustomImagePath": "",
+      "IPAddress": "google.com",
+      "Position": "216, 177"
+    },
+    {
+      "DeviceName": "NW Office",
+      "ImageIndex": 4,
+      "CustomImagePath": "",
+      "IPAddress": "10.3.2.1",
+      "Position": "442, 80"
+    },
+    {
+      "DeviceName": "Youtube",
+      "ImageIndex": 9,
+      "CustomImagePath": "",
+      "IPAddress": "youtube.com",
+      "Position": "12, 86"
+    }
+  ],
+  "Shapes": [
+    {
+      "Size": "7, 125",
+      "Position": "296, 61"
+    },
+    {
+      "Size": "291, 9",
+      "Position": "150, 119"
+    }
+  ],
+  "ConfigVersion": 1.0
+}
