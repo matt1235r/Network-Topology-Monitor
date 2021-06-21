@@ -12,6 +12,7 @@ Network Monitor is a network mapping tool with a focus on simple setup and clean
 - Possible cross platform release.
 
 ## Installation
+[Download Latest Version](https://github.com/matt1235r/Network-Monitor-Public/releases/download/1.0/Network.Monitor.Installer.exe)
 
 Installation is as simple as extracting the downloaded .ZIP file to a folder on your computer.
 
